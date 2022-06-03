@@ -7,7 +7,7 @@ import ReactDOM from 'react-dom/client';
 // import Lifecycle from './part_2/Lifecycle';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Crud from './part_2/crud'
+import Crud from './part_3/crud'
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
